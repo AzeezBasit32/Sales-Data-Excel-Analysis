@@ -1,1 +1,22 @@
+# Sales Dashboard - Excel Project
 
+## Overview
+This project features a highly interactive Excel dashboard that visualizes key sales metrics. It includes slicers, scrollbars, and dynamic charts such as donut charts, bar charts, and treemaps to provide insights into sales performance.
+
+## Dataset
+The dataset is stored in the **Orders** sheet and includes:
+- **Order Details:** Order ID, Order Date, Ship Date, Ship Mode.
+- **Customer Information:** Customer ID, Name, Segment, and Region.
+- **Product Details:** Product ID, Category, Sub-Category, Product Name.
+- **Sales Performance:** Sales, Quantity, Discount, and Profit.
+- **Shipping Insights:** Order-Shipping interval.
+
+## Dashboard Features
+- **Slicers & Scrollbars:** Filter data interactively by date, region, product, or category.
+- **Donut & Bar Charts:** Visualize sales distribution and trends.
+- **Treemap:** Display product categories based on sales contribution.
+
+## How to Use
+1. Open the Excel file and navigate to the **Dashboard** sheet.
+2. Use slicers and scrollbars to filter and explore sales data.
+3. Analyze key insights from visual charts and metrics.
